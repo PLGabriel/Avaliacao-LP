@@ -5,7 +5,7 @@ OBS: Pode ocorrer de acontecer mudanças por parte de toda a equipe - E isso nã
 Tema Central: Sistema de Academia
 
 Objetivo: Fazer um sistema de gerenciamento de alunos dentro de uma academia onde, o aluno, poderá cadastrar, ou seja, personalizar seus próprios treinos por sua responsabilidade e risco.
-
+#teste, testando
 O que terá?:
 Parte de cadastrar aluno
 Parte de Excluir aluno
